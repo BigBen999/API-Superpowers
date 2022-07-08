@@ -1,0 +1,95 @@
+{
+  "peliculas": [
+    {
+      "id": 2,
+      "caratula": "https://pics.filmaffinity.com/pulp_fiction-210382116-large.jpg",
+      "nombre": "Pulp Fiction",
+      "director": "Tarantino",
+      "clasificacion": "Acción",
+      "info": "https://www.filmaffinity.com/es/film160882.html"
+      
+    },
+    {
+      
+      "id": 4,
+      "caratula": "https://pics.filmaffinity.com/300-177205452-large.jpg",
+      "nombre": "300",
+      "director": "Zack Snyder",
+      "clasificacion": "Acción",
+      "info": "https://www.filmaffinity.com/es/film186830.html"
+    },
+    {
+      "id": 5,
+      "caratula": "https://pics.filmaffinity.com/the_silence_of_the_lambs-767447992-large.jpg",
+      "nombre": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama",
+      "info": "https://www.filmaffinity.com/es/film768790.html"
+    },
+    {
+      "id": 6,
+      "caratula": "https://pics.filmaffinity.com/forrest_gump-212765827-large.jpg",
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia",
+      "info": "https://www.filmaffinity.com/es/film444796.html"
+    },
+    {
+      "id": 7,
+      "caratula": "https://pics.filmaffinity.com/las_hurdes_tierra_sin_pan-618902623-large.jpg",
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental",
+      "info": "https://www.filmaffinity.com/es/film595178.html"
+    },
+    {
+      "id": 8,
+      "caratula": "https://pics.filmaffinity.com/the_godfather_part_ii-617901053-large.jpg",
+      "nombre": "El padrino II",
+      "director": "Francis Ford Coppola",
+      "clasificacion": "Drama",
+      "info": "https://www.filmaffinity.com/es/film730528.html"
+    },
+    {
+      "caratula": "https://pics.filmaffinity.com/the_sixth_sense-516003703-large.jpg",
+      "nombre": "El sexto sentido",
+      "director": "M. Night Shyamalan",
+      "clasificacion": "Drama",
+      "id": 9,
+      "info": "https://www.filmaffinity.com/es/film607127.html"
+    },
+    {"caratula": "https://pics.filmaffinity.com/schindler_s_list-473662617-large.jpg",
+      "nombre": "La lista de Schindler",
+      "director": "Steven Spielberg",
+      "clasificacion": "Belica",
+      "id": 10,
+      "info":"https://www.filmaffinity.com/es/film656153.html"
+    },
+    {
+      "caratula": "https://pics.filmaffinity.com/batman_begins-413277928-large.jpg",
+      "nombre": "Batman Begins",
+      "director": "Christopher Nolan",
+      "clasificacion": "Thriller",
+      "id": 11,
+      "info": "https://www.filmaffinity.com/es/film943383.html"
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ]
+}
